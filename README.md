@@ -1,8 +1,9 @@
-<h1 align="center">Hey, I'm Raghuvarma 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Raghuvarma%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20·%20AI/LLM%20Engineer%20·%20SaaS%20Builder&descAlignY=55&descSize=18"/>
+</p>
 
 <p align="center">
-  <b>Full Stack Developer · AI/LLM Engineer · SaaS Builder</b><br/>
-  Building production-grade apps that solve real problems with AI
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+LLM+Engineer+%F0%9F%A4%96;SaaS+Builder+%F0%9F%93%A6;React+%7C+Node.js+%7C+Python+%7C+Supabase;ChatGPT+%7C+Claude+%7C+Gemini+APIs;Building+things+that+solve+real+problems!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -181,4 +182,8 @@ ML & Computer Vision  ██████████░░░░░░░░░�
 
 <p align="center">
   <i>Open to Full Stack, AI Developer, and SaaS roles — remote or Hyderabad</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
