@@ -153,8 +153,7 @@ ML & Computer Vision  ██████████░░░░░░░░░�
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghuvarma905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghuvarma905&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghuvarma905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%"/>
 </p>
 
 <p align="center">
